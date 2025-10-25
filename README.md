@@ -1,6 +1,6 @@
 # Case study - Expansion potential for high-tech products in the Brazilian market
 ## Introduction
-In a fictional case study, we, students of the Data Science & AI department at WBS Coding School, examined the chances of success for a European high-tech online-reseller on the Brazilian market with the help of a national e-commerce platform
+In a fictional case study, we, students of the Data Science & AI course at WBS Coding School, examined the chances of success for a European high-tech online-reseller on the Brazilian market with the help of a national e-commerce platform
 ## Challenges
 The aim of this study was, on the one hand to examine the national environment in terms of market growth in online retail for tech products and infrastructure for the delivery of online orders and, in addition, to review the extracted data provided by a potential national e-commerce partner with regard to the pro´s and con´s of a cooperation.
 ## Languages and Libraries Used
